@@ -51,10 +51,6 @@ Have questions? Want to share your success with **Growbot**?
 
 We welcome contributions to **Growbot**! Please read our `CONTRIBUTING.md` file for details on how to contribute to this **Instagram automation tool**.
 
-## License
-
-This project is licensed under the [Your License Type - e.g., MIT License] - see the `LICENSE.md` file for details.
-
 ---
 
 * `instagram`, `bot`, `instagram-bot`, `automation`, `instagram-automation`, `growth-hacking`, `social-media`, `premium-features`, `growbot`, `instagram-growth-tool`.
