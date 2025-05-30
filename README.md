@@ -57,11 +57,4 @@ This project is licensed under the [Your License Type - e.g., MIT License] - see
 
 ---
 
-**Important Reminders for SEO on GitHub:**
-
-1.  **Repository Description:** The short description under your repository name is crucial. Make it keyword-rich.
-    * *Example:* "Growbot: Advanced Instagram bot & automation tool for organic growth. Features premium options for power users. #instagrambot #automation #premium"
-2.  **Topics:** Use GitHub topics extensively.
-    * *Examples:* `instagram`, `bot`, `instagram-bot`, `automation`, `instagram-automation`, `growth-hacking`, `social-media`, `python` (if applicable), `premium-features`, `growbot`, `instagram-growth-tool`.
-
-This example provides a solid foundation. You can expand on each section with more specific details relevant to Growbot. Remember to replace bracketed placeholders `[like this]` with actual links and information.
+* `instagram`, `bot`, `instagram-bot`, `automation`, `instagram-automation`, `growth-hacking`, `social-media`, `premium-features`, `growbot`, `instagram-growth-tool`.
