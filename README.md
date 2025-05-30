@@ -25,7 +25,7 @@ Take your Instagram strategy to the next level with **Growbot Premium**! If you'
 * 🛡️ **Enhanced Safety Limits (Premium):** Optimized activity patterns designed for robust, long-term **automation**.
 * ⏱️ **Priority Support:** **Premium** users receive expedited support from our dedicated team.
 
-➡️ **Ready to experience the best "Instagram bot premium" features?** [Link to Your Premium Version/Upgrade Page Here]
+➡️ **Ready to experience the best "Instagram bot premium" features?** [https://t.me/growbotcrackedinstagram]
 
 ## Why Choose Growbot for Your Instagram Automation Needs?
 
@@ -37,17 +37,15 @@ Take your Instagram strategy to the next level with **Growbot Premium**! If you'
 ## Getting Started
 
 1.  **Download:** Get the latest version from our [Releases Page](link-to-releases).
-2.  **Install:** Follow the installation guide [Link to Installation Guide or Wiki].
-3.  **Configure:** Set up your Instagram account and targeting preferences.
-4.  **Run:** Start your **Instagram automation** journey!
+2.  **Configure:** Set up your Instagram account and targeting preferences.
+3.  **Run:** Start your **Instagram automation** journey!
 
-For detailed instructions, please refer to our [Full Documentation](link-to-docs).
 
 ## 💬 Community & Support
 
 Have questions? Want to share your success with **Growbot**?
-* Join our [Community Group](link-to-your-group) for news, offers, and discussions on **Instagram growth**!
-* Found a bug or have a feature request for our **Instagram bot**? Open an [Issue](link-to-issues).
+* Join our [Community Group](https://t.me/growbotcrackedinstagram) for news, offers, and discussions on **Instagram growth**!
+* Found a bug or have a feature request for our **Instagram bot**? Open an [Issue](https://github.com/growbotforinsta/growbotforinsta/issues).
 
 ## Contributing
 
